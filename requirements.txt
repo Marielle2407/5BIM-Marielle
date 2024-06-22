@@ -1,8 +1,5 @@
 
 
-Assurez-vous que `requirements.txt` contient toutes les dépendances nécessaires:
-
-```plaintext
 opencv-python
 numpy
 torch
