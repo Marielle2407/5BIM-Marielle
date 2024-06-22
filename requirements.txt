@@ -1,4 +1,9 @@
 
+requirements.txt
+
+Ces fichiers devraient vous permettre de documenter et d'installer correctement le projet pour la détection d'ordinateurs
+et de souris à l'aide d'OpenCV et de YOLO.
+
 
 opencv-python
 numpy
